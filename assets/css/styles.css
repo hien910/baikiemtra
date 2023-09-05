@@ -77,11 +77,13 @@ text-transform: capitalize;
     position: relative;
     width: 442px;
     height: 562px;
+    margin-left: 66px;
     /* background-color: aliceblue; */
 }
  .page2{
     width: 1920px;
     height: 2230px;
+    position: relative;
  }
  .brand{
     margin: auto;
@@ -95,6 +97,7 @@ text-transform: capitalize;
  }
  .page2 .container{
     margin-top: 90px;
+    
  }
  .page2 .item1{
     width: 648px;
